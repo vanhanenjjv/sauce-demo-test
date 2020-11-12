@@ -1,5 +1,6 @@
 *** Settings ***
-Library         SeleniumLibrary     run_on_failure=Nothing
+Library           SeleniumLibrary     run_on_failure=Nothing
+Suite Teardown    Close Browser
 
 
 *** Variables ***
