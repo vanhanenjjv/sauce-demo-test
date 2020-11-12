@@ -4,8 +4,10 @@ include/
 lib/
 lib64/
 share/
+pyvenv.cfg
 
 # Robot Framework
 output.xml
 report.html
-pyvenv.cfg
+log.html
+
