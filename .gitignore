@@ -1,0 +1,11 @@
+# Python Virtual Environment
+bin/
+include/
+lib/
+lib64/
+share/
+
+# Robot Framework
+output.xml
+report.html
+pyvenv.cfg
